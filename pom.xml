@@ -34,7 +34,7 @@
 
             </plugin>
 
-	<!--	<plugin>
+	<plugin>
     <artifactId>maven-war-plugin</artifactId>
     <configuration>
         <attachClasses>true</attachClasses>
@@ -46,10 +46,10 @@
             </resource>
         </webResources>
     </configuration>
-</plugin> -->
+</plugin> 
 		
 		
-	<!--	<plugin>
+		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-javadoc-plugin</artifactId>
 			<executions>
@@ -63,7 +63,7 @@
 			</executions>
 		
 		
-		</plugin> -->
+		</plugin> 
 	</plugins>
 	</build>
   
